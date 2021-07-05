@@ -46,17 +46,11 @@ Users can registred to the app and create rooms for chating.
 - 404 - If user route into not exist route
 - 500 - If the site has server problem
 
-## 🖥️‍ API
+## 💿‍ API
 - [SWAGGER/Docs](https://fire102.herokuapp.com/docs/)
 ![Use Case](https://i.imgur.com/0rRj8gx.png)
 
 
-## 🖥️‍ Site Screens
-- Authentication - Entry point for register / login
-- Home screen - Show the currect room, list of rooms, list of users
-- 401 - If user did not sign in into application
-- 404 - If user route into not exist route
-- 500 - If the site has server problem
 
 ## 🏃‍ Local Installation
 
