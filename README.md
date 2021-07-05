@@ -47,7 +47,6 @@ Users can registred to the app and create rooms for chating.
 - 500 - If the site has server problem
 
 ## 🖥️‍ API
-- Authentication - Entry point for register / login
 - [SWAGGER/Docs](https://fire102.herokuapp.com/docs/)
 ![Use Case](https://i.imgur.com/0rRj8gx.png)
 
