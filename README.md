@@ -1,12 +1,13 @@
 # ChatApp-Web
-Chat application of users and rooms. Based on Socket IO , React, Redux, Node JS, MongoDB, SQL Server, Elastic Search
+Chat application of users and rooms. Based on Socket IO , React, Redux, Node JS, MongoDB, SQL Server, Elastic Search, Swagger
 
 ![ChatApp](https://iili.io/ooBqrl.png)
 
 This is a realtime chatting application developed using React.js, Node.js , Socket.io, MongoDB, SQL Server, Elastic Search.
 ChatApp is dedicated to group messaging. Users can share text-based messages with their Friends who are in the same room.
 Users can registred to the app and create rooms for chating.
-- ![#1589F0](ChatApp in the next version will have Rooms for "Qrypto" that will send relevant messages in this room.) `#1589F0`
+- [ChatApp in the next version will have Rooms for "Qrypto" that will send relevant messages in this room.]()
+
 
 
 ## 🏁 Technology Stack
@@ -17,6 +18,7 @@ Users can registred to the app and create rooms for chating.
 - [MongoDB](https://www.mongodb.com/)
 - [SQL Server](https://sqliteonline.com/)
 - [ElasticSearch](https://www.elastic.co/)
+
 
 
 ## ⌨️ Key Features
@@ -43,6 +45,11 @@ Users can registred to the app and create rooms for chating.
 - 401 - If user did not sign in into application
 - 404 - If user route into not exist route
 - 500 - If the site has server problem
+
+## 🖥️‍ API
+- Authentication - Entry point for register / login
+- [SWAGGER/Docs](https://fire102.herokuapp.com/docs/)
+![Use Case](https://i.imgur.com/0rRj8gx.png)
 
 
 ## 🖥️‍ Site Screens
