@@ -24,6 +24,7 @@ app.use(cors());
 app.use('/public', express.static('public'));
 
 
+
 app.use(authRoutes)
 // app.use(reportRoutes)
 // app.use(markerRoutes)
